@@ -1,5 +1,5 @@
-# project1 starter code
+## Cyptography Project
 
-This repository contains the starter code for Project 1 - Cryptography
-See assignment at https://ecen4133.org/static/proj1.pdf
+This project is based off of https://ecen4133.org/static/proj1.pdf
+
 
